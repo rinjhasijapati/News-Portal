@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import './heading.css';
 
-function Heading() {
+function Heading({title}) {
   return (
-    <div>Heading</div>
+    <>
+      <div className='heading'>
+        <h6>{title}</h6>
+      </div>
+    </>
   )
 }
 
