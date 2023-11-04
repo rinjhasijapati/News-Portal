@@ -2,7 +2,13 @@ import React from 'react'
 
 function Culture() {
   return (
-    <div>Culture</div>
+    <>
+      <section className='culture'>
+        <div className='container paddingTB'>
+          <h1>Culture Sections</h1>
+        </div>
+      </section>
+    </>
   )
 }
 
