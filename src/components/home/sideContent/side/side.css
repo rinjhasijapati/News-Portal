@@ -64,6 +64,11 @@
     margin: 40px 0;
 }
 
+.bannerImg {
+    height: 400px;
+    width: 400px;
+}
+
 .catgorys .category1 {
     position: relative;
     margin-bottom: 20px;

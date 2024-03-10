@@ -7,12 +7,12 @@ function Footer() {
       <footer>
         <div className='container'>
           <div className='box logo'>
-            <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
+            <img className='logoImg' src='../images/logo.png' alt='' />
+            <p>SrotKhabar is a Nepali News Portal that caters to deliver reliable news.</p>
             <i className='fa fa-envelope'></i>
             <span>news@portal.com</span><br />
             <i className='fa fa-headphones'></i>
-            <span>+91 62984637</span>
+            <span>+977 01-5555555</span>
           </div>
           <div className='box'>
             <h3>SPORT</h3>

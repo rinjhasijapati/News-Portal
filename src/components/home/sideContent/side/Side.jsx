@@ -32,7 +32,7 @@ function Side() {
             </section>
 
             <section className='banner'>
-                <img src='./images/sidebar-banner-new.jpg' alt='' />
+                <img className='bannerImg' src='./images/sidebar-banner-new.jpg' alt='' />
             </section>
 
             <Tpost />

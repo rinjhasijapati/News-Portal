@@ -11,6 +11,11 @@ footer .container {
     grid-gap: 30px;
 }
 
+footer .logoImg {
+    height: 53px;
+    width: 300px;
+}
+
 footer .logo p {
     margin: 20px 0;
 }
