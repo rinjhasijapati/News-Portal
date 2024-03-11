@@ -2,11 +2,11 @@ export const hero = [
     {
         id: 1,
         cover: "../images/hero/hero1.jpg",
-        catgeory: "featured",
-        title: "Google To Boost Android Security In Few Days",
+        catgeory: "Nepal",
+        title: "Environmentalists Rally for Everest Cleanup as Concerns Rise Over Pollution",
         authorName: "Salman",
         authorImg: "../images/author.jpg",
-        time: "5 Jun - 2022",
+        time: "5 Jun - 2023",
         desc: [
             {
                 para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
@@ -37,8 +37,8 @@ export const hero = [
     {
         id: 2,
         cover: "../images/hero/hero2.jpg",
-        catgeory: "sport",
-        title: "More than billion football fans attend Brazil world cup",
+        catgeory: "international",
+        title: "Historic Agreement Reached as EU Nations Collaborate on Refugee Crisis",
         authorName: "alex",
         authorImg: "../images/author.jpg",
         time: "12 Aug - 2022",
@@ -72,8 +72,8 @@ export const hero = [
     {
         id: 3,
         cover: "../images/hero/hero3.jpg",
-        catgeory: "fashion",
-        title: "No escaping new high tech speed cameras",
+        catgeory: "Health",
+        title: "Nation Celebrates Milestone in Vaccination Campaign, Aims for Full Recovery",
         authorName: "rina",
         authorImg: "../images/author.jpg",
         time: "22 Mar - 2022",
@@ -108,7 +108,7 @@ export const hero = [
         id: 4,
         cover: "../images/hero/hero4.jpg",
         catgeory: "technology",
-        title: "Emma Watson stands up for Turkish women",
+        title: "Innovative Smartwatch Revolutionizes Wearable Tech with Health Monitoring",
         authorName: "sunil",
         authorImg: "../images/author.jpg",
         time: "08 Dec - 2022",
