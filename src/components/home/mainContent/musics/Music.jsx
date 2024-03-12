@@ -18,11 +18,11 @@ const Music = () => {
   return (
     <>
       <section className='music'>
-        <Heading title='Music News' />
+        <Heading title='National News' />
         <div className='content'>
           <Slider {...settings}>
             {popular
-              .filter((val) => val.catgeory === "fun")
+              .filter((val) => val.catgeory === "nepal")
               .map((val) => {
                 return (
                   <div className='items'>
