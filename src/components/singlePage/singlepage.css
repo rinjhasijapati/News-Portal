@@ -47,6 +47,8 @@ main {
 
 .details img {
     margin: 30px 0;
+    height: 700px;
+    width: 1200px;
 }
 
 .desctop p {
